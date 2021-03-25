@@ -1,10 +1,31 @@
 aside {
-  width: 40%;
-  padding-left: 0.5rem;
-  margin-left: 0.5rem;
-  float: right;
+  color: white;
 }
 
 .shaq {
   text-decoration: none;
+}
+
+div {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.DAs_AEJeHYmYmsFuw98QOQHaEF%26pid%3DApi&f=1);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+
+h2 {
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-style: ;
+}
+
+html {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.cT5DdQqnw_XcZWGERGSwvgHaE8%26pid%3DApi&f=1);
+}
+
+p {
+  color: white;
 }
